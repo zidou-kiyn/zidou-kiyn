@@ -26,7 +26,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zidou-kiyn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidou-kiyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zidou-kiyn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=zidou-kiyn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
